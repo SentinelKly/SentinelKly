@@ -25,4 +25,6 @@
   
   <h3><em>"I am hopelessly in love with a memory. An echo from another time, another place."</em></h3>
   <h4>-Michael Faudet</h4>
+
+  <img src="img/wingman.gif">
 </div>
