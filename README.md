@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>OctalBerrys</h1>
+  <h1>Octalberrys</h1>
   <h3><em>Humble and unorthodox engineering</em></h3>
   
   <p>
