@@ -10,9 +10,9 @@
   <h2>Languages & Software</h2>
   
   <div style="float: left">
+    <img src="https://img.shields.io/static/v1?label=&labelColor=ff0062&message=ANSI C&color=black&logo=codio&logoColor=fff">
     <img src="https://img.shields.io/static/v1?label=&labelColor=ff0062&message=C%2b%2b&color=black&logo=cplusplus&logoColor=fff">
     <img src="https://img.shields.io/static/v1?label=&labelColor=ff0062&message=C%23&color=black&logo=csharp&logoColor=fff">
-    <img src="https://img.shields.io/static/v1?label=&labelColor=ff0062&message=ANSI C&color=black&logo=codio&logoColor=fff">
     <img src="https://img.shields.io/static/v1?label=&labelColor=ff0062&message=Python&color=black&logo=python&logoColor=fff">
     <img src="https://img.shields.io/static/v1?label=x64&labelColor=ff0062&message=Assembly&color=black">
     <img src="https://img.shields.io/static/v1?label=&labelColor=ff0062&message=HTML 5&color=black&logo=html5&logoColor=fff">
